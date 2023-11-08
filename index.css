@@ -1,0 +1,52 @@
+
+.breadcrumb{
+    box-shadow: 2px 2px 2px 1px;
+}
+.jumbotron{
+    
+    box-shadow: 2px 2px 2px 1px;
+}
+.jumbotron{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+img{
+width: 500px;    
+}
+.para{
+    width: 800px;
+    height: 520px;
+    border: 1px solid black;
+   font-size: larger;
+   font-style: italic;
+   border: none;
+   box-shadow:  3px 3px 3px 5px;
+   background: rgb(177, 169, 169);
+   color: rgb(8, 8, 8);
+  
+   
+ 
+   
+}
+.photo{
+    display: flex;
+    gap: 3rem;
+}
+.btn{
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    place-items: center;
+    gap: 5rem;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+.main-btn{
+    place-content: center;
+    place-items: center;
+    align-items: center;
+    align-content: center;
+}
